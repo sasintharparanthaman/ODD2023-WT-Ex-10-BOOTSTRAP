@@ -93,9 +93,9 @@ Add a submit button and Link Bootstrap JavaScript.
 </html>
 ```
 # OUTPUT:
-![Alt text](<Screenshot 2024-01-02 111314.png>)
+![Screenshot 2024-01-02 111314](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743219/98270f83-5753-4c1e-8cfd-51b1f2e8c64a)
 
-![Alt text](<Screenshot 2024-01-02 111355.png>)
+![Screenshot 2024-01-02 111355](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743219/d06343bc-f748-4f01-8b6c-c63a1995824d)
 
 # RESULT:
 This code creates a responsive feedback form for a virtual workshop on constructing modern websites built with Bootstrap.
@@ -193,7 +193,8 @@ Link the Bootstrap JavaScript file at the end of the body.
 </html>
 ```
 # OUTPUT:10(b):
-![Alt text](<Screenshot 2024-01-02 111559.png>)
+![Screenshot 2024-01-02 111559](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743219/0fa5f4c8-281b-43b4-846a-e13b89a1e515)
+
 
 # RESULT:
 This code creates a Responsive student registration form for ABC Engineering College built with Bootstrap.
@@ -279,7 +280,7 @@ Add a script to handle the form validation on submit.
     <button type="button" class="btn btn-success"> Submit </button>
 ```
 # OUTPUT:10(c):
-![Alt text](<Screenshot 2024-01-02 111810.png>)
+![Screenshot 2024-01-02 111810](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743219/1f3526f5-083a-4c76-9c59-67240cbc4e14)
 
 
 # RESULT:
@@ -347,9 +348,9 @@ Add a script to handle the form validation on submit.
 </html>
 ```
 # OUTPUT: 10(d):
-![Alt text](<Screenshot 2024-01-02 111936.png>)
+![Screenshot 2024-01-02 111936](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743219/b183c8fa-67a9-4682-95f0-79591c418171)
 
-![Alt text](<Screenshot 2024-01-02 111949.png>)
+![Screenshot 2024-01-02 111949](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743219/37d997e1-a0a9-42b0-be23-049335b8953f)
 
 # RESULT:
 This code creates a basic email login form in Bootstrap with validation function.
